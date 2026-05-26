@@ -459,6 +459,7 @@ La arquitectura implementada en la fase piloto es una base sólida sobre la cual
 
 **Largo plazo:** evaluar la migración del almacén analítico a Azure Synapse Analytics cuando el volumen de datos supere los límites del Free Tier de Azure SQL y el número de usuarios concurrentes de Power BI justifique una capa semántica dedicada.
 
+**Implementacion**
 
 
 
